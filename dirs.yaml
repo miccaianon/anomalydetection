@@ -1,0 +1,4 @@
+"brain_path" : path/to/fastmridata 
+"log_path" : path/to/log 
+"maps_path" : path/to/sensitivity/estimations
+"anns_path" : path/to/annotations
